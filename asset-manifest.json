@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/workate-frontend/static/css/main.c8c7c6a8.css",
+    "main.css": "/workate-frontend/static/css/main.fa220a78.css",
     "main.js": "/workate-frontend/static/js/main.cd736384.js",
     "index.html": "/workate-frontend/index.html",
-    "main.c8c7c6a8.css.map": "/workate-frontend/static/css/main.c8c7c6a8.css.map",
+    "main.fa220a78.css.map": "/workate-frontend/static/css/main.fa220a78.css.map",
     "main.cd736384.js.map": "/workate-frontend/static/js/main.cd736384.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8c7c6a8.css",
+    "static/css/main.fa220a78.css",
     "static/js/main.cd736384.js"
   ]
 }
